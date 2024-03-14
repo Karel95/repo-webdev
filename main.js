@@ -1,5 +1,5 @@
-let numA = 30
-let numB = 20
+let numA = 10
+let numB = 5
 
 let resultadoSuma = numA + numB
 let resultadoResta = numA - numB
